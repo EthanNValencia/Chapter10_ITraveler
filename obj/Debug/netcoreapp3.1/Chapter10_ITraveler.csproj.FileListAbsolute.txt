@@ -1,0 +1,17 @@
+C:\Users\Ethan\source\repos\Chapter10_ITraveler\bin\Debug\netcoreapp3.1\Chapter10_ITraveler.deps.json
+C:\Users\Ethan\source\repos\Chapter10_ITraveler\bin\Debug\netcoreapp3.1\Chapter10_ITraveler.dll
+C:\Users\Ethan\source\repos\Chapter10_ITraveler\bin\Debug\netcoreapp3.1\Chapter10_ITraveler.pdb
+C:\Users\Ethan\source\repos\Chapter10_ITraveler\obj\Debug\netcoreapp3.1\Chapter10_ITraveler.csproj.AssemblyReference.cache
+C:\Users\Ethan\source\repos\Chapter10_ITraveler\obj\Debug\netcoreapp3.1\Chapter10_ITraveler.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\repos\Chapter10_ITraveler\obj\Debug\netcoreapp3.1\Chapter10_ITraveler.AssemblyInfo.cs
+C:\Users\Ethan\source\repos\Chapter10_ITraveler\obj\Debug\netcoreapp3.1\Chapter10_ITraveler.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\repos\Chapter10_ITraveler\obj\Debug\netcoreapp3.1\Chapter10_ITraveler.dll
+C:\Users\Ethan\source\repos\Chapter10_ITraveler\obj\Debug\netcoreapp3.1\Chapter10_ITraveler.pdb
+C:\Users\Ethan\source\VisualStudioRepos\Chapter10_ITraveler\bin\Debug\netcoreapp3.1\Chapter10_ITraveler.deps.json
+C:\Users\Ethan\source\VisualStudioRepos\Chapter10_ITraveler\bin\Debug\netcoreapp3.1\Chapter10_ITraveler.dll
+C:\Users\Ethan\source\VisualStudioRepos\Chapter10_ITraveler\bin\Debug\netcoreapp3.1\Chapter10_ITraveler.pdb
+C:\Users\Ethan\source\VisualStudioRepos\Chapter10_ITraveler\obj\Debug\netcoreapp3.1\Chapter10_ITraveler.AssemblyInfoInputs.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter10_ITraveler\obj\Debug\netcoreapp3.1\Chapter10_ITraveler.AssemblyInfo.cs
+C:\Users\Ethan\source\VisualStudioRepos\Chapter10_ITraveler\obj\Debug\netcoreapp3.1\Chapter10_ITraveler.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\source\VisualStudioRepos\Chapter10_ITraveler\obj\Debug\netcoreapp3.1\Chapter10_ITraveler.dll
+C:\Users\Ethan\source\VisualStudioRepos\Chapter10_ITraveler\obj\Debug\netcoreapp3.1\Chapter10_ITraveler.pdb
